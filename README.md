@@ -1,4 +1,4 @@
 wcsp
 ====
 
-Wemo control from PowerShell
+Wemo Control Script for PowerShell
